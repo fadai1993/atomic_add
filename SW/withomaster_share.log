@@ -1,0 +1,87 @@
+init:5
+total_count=202571412,each= 202
+result:1000005,0
+faaw latency : 
+202, 
+master aver latency= 0
+slave aver latency= 202
+right
+init:5
+total_count=220939159,each= 220
+result:2000005,0
+faaw latency : 
+220, 220, 
+master aver latency= 0
+slave aver latency= 220
+right
+init:5
+total_count=441702017,each= 441
+result:4000005,0
+faaw latency : 
+441, 441, 441, 441, 
+master aver latency= 0
+slave aver latency= 441
+right
+init:5
+total_count=883205764,each= 883
+result:8000005,0
+faaw latency : 
+883, 883, 883, 883, 883, 883, 883, 883, 
+master aver latency= 0
+slave aver latency= 883
+right
+init:5
+total_count=1766040414,each= 1766
+result:16000005,0
+faaw latency : 
+1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 1766, 
+
+master aver latency= 0
+slave aver latency= 1766
+right
+init:5
+total_count=2649120116,each= 2649
+result:24000005,0
+faaw latency : 
+2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 
+2649, 2649, 2649, 2649, 2649, 2649, 2649, 2649, 
+master aver latency= 0
+slave aver latency= 2649
+right
+init:5
+total_count=2869686372,each= 2869
+result:26000005,0
+faaw latency : 
+2869, 2869, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 
+2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 2870, 
+master aver latency= 0
+slave aver latency= 2869
+right
+init:5
+total_count=3531781954,each= 3531
+result:32000005,0
+faaw latency : 
+3531, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 
+3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 3532, 
+master aver latency= 0
+slave aver latency= 3531
+right
+init:5
+total_count=5296542760,each= 5296
+result:48000005,0
+faaw latency : 
+5296, 5296, 5297, 5297, 5297, 5297, 5297, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 
+5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 5298, 
+master aver latency= 0
+slave aver latency= 5297
+right
+init:5
+total_count=5738827680,each= 5738
+result:52000005,0
+faaw latency : 
+5738, 5739, 5739, 5739, 5739, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 
+5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 5740, 
+master aver latency= 0
+slave aver latency= 5739
+right
+[55571140 ## mn117: 22903 ## Mon Jun 17 17:22:59 2024]  sz_get_job_info_before_start: not found job's cnodes in SW100P_JOB_CNODE_STATE_T
